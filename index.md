@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Indexing and Retrieval of 3D videos
+
+
+### Using subvideos of 90 Frames with overlap of 30 frames in adjacent subvideos
 
 1.
 <img src="90_frames_123.png" alt="hi" class="inline"/>
@@ -23,4 +26,3 @@
 4.
 <img src="90_frames_3456.png" alt="hi" class="inline"/>
 (first is the test sub video and rest are its nearest neighbours)
-
