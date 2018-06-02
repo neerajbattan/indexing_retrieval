@@ -36,6 +36,7 @@
 <br>
 <br>
 2-dimentional plot for tSNE features of output of all the test videos
+<br>
 <img src="2D_plot_90_output.png" alt="hi" class="inline"/>
 <br>
 <br>
