@@ -31,7 +31,7 @@
 <br>
 <br>
 
-3-dimentional plot for tSNE features of output of all the test videos
+3-dimentional plot for tSNE features of output of optical flow of all the test videos
 <img src="3D_plot_90_output.png" alt="3D_plot_90_output.png" class="inline"/>
 <br>
 <br>
