@@ -26,3 +26,16 @@
 4.
 <img src="90_frames_3456.png" alt="hi" class="inline"/>
 (first is the test sub video and rest are its nearest neighbours)
+
+<br>
+<br>
+<br>
+
+3-dimentional plot for tSNE features of output of all the test videos
+<img src="3D_plot_90_output.png" alt="hi" class="inline"/>
+<br>
+<br>
+2-dimentional plot for tSNE features of output of all the test videos
+<img src="2D_plot_90_output.png" alt="hi" class="inline"/>
+<br>
+<br>
