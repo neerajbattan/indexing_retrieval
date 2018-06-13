@@ -10,8 +10,22 @@
 <br>
 <br>
 
+# results using single fps
+<img src="90_frames_123_single_fps.png" alt="90_frames_123_single_fps.png" class="inline"/>
+(first is the test sub video and rest are its nearest neighbours)
+<br>
+<br>
+<br>
+
 2.
 <img src="90_frames_1234.png" alt="90_frames_1234.png" class="inline"/>
+(first is the test sub video and rest are its nearest neighbours)
+<br>
+<br>
+<br>
+
+# results using single fps
+<img src="90_frames_1234_single_fps.png" alt="90_frames_1234_single_fps.png" class="inline"/>
 (first is the test sub video and rest are its nearest neighbours)
 <br>
 <br>
@@ -23,6 +37,15 @@
 <br>
 <br>
 <br>
+
+
+# results using single fps
+<img src="90_frames_2345_single_fps.png" alt="90_frames_2345_single_fps.png" class="inline"/>
+(first is the test sub video and rest are its nearest neighbours)
+<br>
+<br>
+<br>
+
 4.
 <img src="90_frames_3456.png" alt="90_frames_3456.png" class="inline"/>
 (first is the test sub video and rest are its nearest neighbours)
@@ -106,25 +129,3 @@ Require joint locations in image for extracting the joint locations in 3D using 
 <br>
 <br>
 
-## Using subvideos of 90 Frames with overlap of 30 frames in adjacent subvideos, results with single fps
-
-1.
-<img src="90_frames_123_single_fps.png" alt="90_frames_123_single_fps.png" class="inline"/>
-(first is the test sub video and rest are its nearest neighbours)
-<br>
-<br>
-<br>
-
-2.
-<img src="90_frames_1234_single_fps.png" alt="90_frames_1234_single_fps.png" class="inline"/>
-(first is the test sub video and rest are its nearest neighbours)
-<br>
-<br>
-<br>
-
-3.
-<img src="90_frames_2345_single_fps.png" alt="90_frames_2345_single_fps.png" class="inline"/>
-(first is the test sub video and rest are its nearest neighbours)
-<br>
-<br>
-<br>
